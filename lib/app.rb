@@ -8,6 +8,6 @@ class App
   end
 
   def greet
-    "Hello world #{@name}"
+    'Hello world'
   end
 end

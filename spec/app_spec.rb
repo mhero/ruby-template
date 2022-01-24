@@ -7,7 +7,7 @@ RSpec.describe App do
 
   describe '#greet' do
     it do
-      expect(subject.greet).to eq('Hello world Name')
+      expect(subject.greet).to eq('Hello world')
     end
   end
 end
