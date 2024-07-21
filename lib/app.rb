@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'byebug'
+
 class App
   attr_reader :name
 
